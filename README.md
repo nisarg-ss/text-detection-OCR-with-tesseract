@@ -14,3 +14,5 @@ And comment this one to detect every single letter
 
 - pip install pytesseract or tesseract
 - pip instal pytesseract-ocr or tesseract-ocr
+
+### you can refer to [this](https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i) link if got any error
